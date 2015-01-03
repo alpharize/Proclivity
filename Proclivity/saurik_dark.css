@@ -1,0 +1,39 @@
+.adsbygoogle {
+    display: none !important;
+}
+* {
+    font-family: ".HelveticaNeueDeskInterface-Regular";
+    color:#fff;
+    font-size: 18px !important;
+    -webkit-border-radius: 0px !important;
+}
+a {
+    color:rgba(255, 255, 255, 0.8) !important;
+}
+fieldset>a>div>div>label>p {
+    font-weight: normal !important;
+    font-family: ".HelveticaNeueDeskInterface-MediumP4" !important;
+}
+panel > fieldset, panel > block {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    border: none !important;
+    background-color: rgba(0.25, 0.25, 0.25, 0.25) !important;
+}
+panel > label {
+    color:rgba(255, 255, 255, 0.8) !important;
+    text-shadow: none !important;
+    font-size: 21px;
+    font-family: ".HelveticaNeueDeskInterface-Bold" !important;
+}
+#mmPassback {
+    display: none !important;
+}
+
+body {
+    background: none !important;
+}
+
+div[id^="div-gpt-ad"] {
+    display: none !important;
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DEB88EFE-21BE-48AD-B49C-B493E956C9E0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Proclivity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D69DF8D97C2DC8EF96FF229D9FC737FD825F4CD4</key>
+		<string>https://bitbucket.org/kjcracks/BetterRIP</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Proclivity.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D69DF8D97C2DC8EF96FF229D9FC737FD825F4CD4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/kjcracks/BetterRIP</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D69DF8D97C2DC8EF96FF229D9FC737FD825F4CD4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D69DF8D97C2DC8EF96FF229D9FC737FD825F4CD4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BetterRIP</string>
+		</dict>
+	</array>
+</dict>
+</plist>

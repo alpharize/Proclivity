@@ -1,0 +1,23 @@
+PODS:
+  - BZipCompression (1.0.2)
+  - FMDB (2.4):
+    - FMDB/standard (= 2.4)
+  - FMDB/common (2.4)
+  - FMDB/standard (2.4):
+    - FMDB/common
+  - GPUImage (0.1.6)
+  - TUSafariActivity (1.0.2)
+
+DEPENDENCIES:
+  - BZipCompression (~> 1.0.0)
+  - FMDB
+  - GPUImage
+  - TUSafariActivity (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  BZipCompression: d4931abf79e2dc33383acd58239bea499e13ed9d
+  FMDB: 0b2fa25e5264ef177973c0cb8c02c711107979aa
+  GPUImage: cecb0830bb9428f50192042e3c7b53810f51388e
+  TUSafariActivity: 63c6b0584d1f0a731e955c0e4d9c89cde63bedc2
+
+COCOAPODS: 0.35.0
